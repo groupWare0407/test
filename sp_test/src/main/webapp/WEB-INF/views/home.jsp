@@ -15,6 +15,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 <p>신동훈</p>
 <p>고현우</p>
-<p>고현우</p>
+<p>최령 바보</p>
 </body>
 </html>
